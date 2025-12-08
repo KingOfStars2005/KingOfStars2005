@@ -2,7 +2,8 @@
 
 # Anurag Shre (Limitless Demon Venerable)
 
-### Systems Engineering Student. Building high-performance tooling in Rust & Python. Focused on Distributed Systems and Low-Level Design
+### Systems Engineering Student | Low-Level Design & Architecture
+### Transitioning from Object-Oriented Python to High-Performance Rust
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragshre/">
@@ -17,34 +18,48 @@
 
 ---
 
-### 🧐 About Me
+### ⚡ Engineering Philosophy
 
-I am a developer driven by curiosity and a desire to understand the code I write. My approach is to work diligently, ensuring that the final output is polished, intuitive, and impactful and I believe in continuous self-improvement.
+I focus on **First Principles Thinking** and **Sovereign Architecture**. I do not just write code; I design systems that optimize for control, efficiency, and scalability.
 
-* **🔭 Current Focus:** I am refining my skills in modern frontend architecture. Specifically, I am deep-diving into **TailwindCSS**, CSS pre/post-processors, and efficient deployment strategies.
-* **🤝 Collaboration:** I am actively seeking to build a dedicated circle of peers—ambitious students and developers—focused on mutual growth. I want to collaborate on projects that challenge us to be better. If you value serious learning and teamwork, I invite you to reach out.
-* **⚡ Background:** My technical journey began with 2D Game Development (Godot), which taught me the importance of logic, structure, and user experience.
-* **💬 Ask Me About:** The intersection of Technology and Psychology, Science, and the pursuit of knowledge.
+* **🔭 Current Engineering Focus:** Porting legacy Python Object-Oriented designs to **Rust** for memory safety and concurrency. Deepening knowledge in **Data Structures & Algorithms** and **System Architecture**.
+* **🏗️ Methodology:** I prioritize logic over frameworks. My goal is to master the hardware-software interface, moving beyond high-level abstractions to understand the machine itself.
+* **⚔️ The Mission:** To build tools that are rigorous, efficient, and unignorable.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**Core Languages**
+<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frontend & Integration**
+<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Environment**
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=Limitless-Demon-Venerable&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-#### ✍️ Daily Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧪 Selected Works
+
+* **The Arena of Ascendance:** A rigorous Object-Oriented simulation exploring Polymorphism and Encapsulation. *(Python)*
+* **Systems Labs:** [Coming Soon] Implementations of core utilities (Grep, KV Store) rewritten in Rust for performance benchmarking.
+
+---
+
+<div align="center">
+  <i>"Man proposes, Heaven disposes. But I will tear a hole in the sky."</i>
+</div>
