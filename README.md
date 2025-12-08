@@ -2,7 +2,7 @@
 
 # Anurag Shre (Limitless Demon Venerable)
 
-### Aspiring Polymath | Software Developer | Life Long Learner
+### Systems Engineering Student. Building high-performance tooling in Rust & Python. Focused on Distributed Systems and Low-Level Design
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragshre/">
