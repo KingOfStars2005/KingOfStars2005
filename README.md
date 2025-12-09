@@ -55,7 +55,7 @@ I focus on **First Principles Thinking** and **Reliable Architecture**. I do not
 ### 🧪 Selected Works
 
 * **The Arena of Ascendance:** A rigorous Object-Oriented simulation exploring Polymorphism and Encapsulation. *(Python)*
-* **Systems Labs:** [Coming Soon] Implementations of core utilities (Grep, KV Store) rewritten in Rust for performance benchmarking.
+* **Limitless Tool Box:** [Coming Soon] Implementations of core utilities (Grep, KV Store) rewritten in Rust for performance benchmarking.
 
 ---
 
