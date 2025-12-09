@@ -20,7 +20,7 @@
 
 ### ⚡ Engineering Philosophy
 
-I focus on **First Principles Thinking** and **Sovereign Architecture**. I do not just write code; I design systems that optimize for control, efficiency, and scalability.
+I focus on **First Principles Thinking** and **Reliable Architecture**. I do not just write code; I design systems that optimize for control, efficiency, and scalability.
 
 * **🔭 Current Engineering Focus:** Porting legacy Python Object-Oriented designs to **Rust** for memory safety and concurrency. Deepening knowledge in **Data Structures & Algorithms** and **System Architecture**.
 * **🏗️ Methodology:** I prioritize logic over frameworks. My goal is to master the hardware-software interface, moving beyond high-level abstractions to understand the machine itself.
@@ -41,8 +41,7 @@ I focus on **First Principles Thinking** and **Sovereign Architecture**. I do no
 **Frontend & Integration**
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 **Tools & Environment**
 <br>
